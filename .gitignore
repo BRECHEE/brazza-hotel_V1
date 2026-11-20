@@ -1,0 +1,28 @@
+# Environment and secrets
+.env
+*.local
+
+# Runtime files
+/storage/logs/*.log
+/storage/cache/*
+!/storage/logs/.gitkeep
+!/storage/cache/.gitkeep
+/public/assets/uploads/*
+!/public/assets/uploads/.gitkeep
+!/public/assets/uploads/rooms/.gitkeep
+!/public/assets/uploads/gallery/.gitkeep
+!/public/assets/uploads/settings/.gitkeep
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+
+# Dependencies (the application is deliberately dependency-free)
+/vendor/
+/node_modules/
+
+# Local database dumps
+/database/*.local.sql

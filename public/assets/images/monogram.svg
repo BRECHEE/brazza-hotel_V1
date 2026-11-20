@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="Brazza Hotel">
+  <circle cx="60" cy="60" r="58" fill="none" stroke="#D6AD55" stroke-width="1.5"/>
+  <path d="M31 35h30c12 0 18 6 18 15 0 6-3 11-9 13 8 2 12 7 12 14 0 11-8 17-21 17H31V35zm14 13v12h13c5 0 7-2 7-6s-2-6-7-6H45zm0 24v13h15c5 0 7-2 7-6s-2-7-7-7H45z" fill="#D6AD55"/>
+  <path d="M60 20v9M60 91v9" stroke="#D6AD55" stroke-width="1"/>
+</svg>
